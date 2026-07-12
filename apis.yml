@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://danbooru.donmai.us/wiki_pages/help:api
 common:
+  - type: DomainSecurity
+    url: security/danbooru-anime-domain-security.yml
   - type: Website
     url: https://danbooru.donmai.us/wiki_pages/help:api
   - type: PublicAPIsListing
