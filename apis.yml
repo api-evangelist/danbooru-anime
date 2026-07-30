@@ -1,4 +1,16 @@
 aid: danbooru-anime
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/danbooru-anime.png
 name: Danbooru Anime
 description: "Thousands of anime artist database to find good anime art"
 url: https://danbooru.donmai.us/wiki_pages/help:api
