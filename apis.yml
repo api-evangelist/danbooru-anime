@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/danbooru-a
 name: Danbooru Anime
 description: "Thousands of anime artist database to find good anime art"
 url: https://danbooru.donmai.us/wiki_pages/help:api
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
