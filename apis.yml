@@ -39,7 +39,6 @@ apis:
   - name: Danbooru Anime
     description: "Thousands of anime artist database to find good anime art"
     humanURL: https://danbooru.donmai.us/wiki_pages/help:api
-    baseURL: https://danbooru.donmai.us/wiki_pages/help:api
     tags:
       - Anime
     properties:
